@@ -107,3 +107,5 @@ git push
 
 12. 로그 확인하기
     git log
+
+-gitignore
