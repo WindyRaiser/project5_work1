@@ -119,3 +119,6 @@ clone
 pull 
 -코드가 있는 상태에서 변경된 부분만 받을 경우
 
+
+
+-gitignore
